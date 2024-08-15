@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "BH_REFRESH_TOKEN": "12190_7992321_32:2e446d10-1b01-4754-946b-255f60736778",
+    "ENCRYPTION_KEY": "QBIlB_FRTt5k2TRlh2DXL_so_WPm87FIShCz1u9euH0=",
+    "CLIENT_ID": "b450dc78-553d-4fb3-b92f-5531269decde",
+    "CLIENT_SECRET": "iwipBdPXKc2xNaiuV1QR7v1K",
+    "MONGO_CONNECTION_STRING": "mongodb+srv://ben-kudu-datalake:Wc8Z8ImwoXXBNG6mOXtgdEmQO7Csjup4t5qd8AqGtam08t7m@kudu-wateringhole.dzbkv.mongodb.net/",
+    "fields": "id,firstName,lastName,email,phone,mobile,status,description,occupation,owner,dateLastModified,companyName,hourlyRateLow,customFloat1,customText4,referredBy,customText5,primarySkills,secondarySkills,address,notes"
+  }
+}
